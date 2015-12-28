@@ -1,0 +1,1 @@
+delete from linea where id_fact=8
